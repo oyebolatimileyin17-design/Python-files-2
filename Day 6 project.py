@@ -1,0 +1,13 @@
+todo_list = []
+todo_list.append("Wake up And pray")
+print(todo_list)
+todo_list.append("Exercise and stretch my body")
+print(todo_list)
+todo_list.append("Read one chapter")
+print(todo_list)
+todo_list.remove("Wake up And pray")
+print(todo_list)
+todo_list.remove("Exercise and stretch my body")
+print(todo_list)
+todo_list.remove("Read one chapter")
+print(todo_list)
